@@ -1,0 +1,34 @@
+leodine@leodine-MS-7817:~$ ls
+Bureau  Documents  Images  Modèles  Musique  php  Public  scripts  Téléchargements  Vidéos  workspace
+leodine@leodine-MS-7817:~$ pwd
+/home/leodine
+leodine@leodine-MS-7817:~$ cd ~
+leodine@leodine-MS-7817:~$ ls -la
+total 92
+drwxr-xr-x 19 leodine leodine 4096 mai   13 08:36 .
+drwxr-xr-x  3 root    root    4096 mai    5 22:28 ..
+-rw-------  1 leodine leodine 1446 mai   11 16:57 .bash_history
+-rw-r--r--  1 leodine leodine  220 mai    5 22:28 .bash_logout
+-rw-r--r--  1 leodine leodine 3771 mai    5 22:28 .bashrc
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Bureau
+drwxr-xr-x 15 leodine leodine 4096 mai    6 20:57 .cache
+drwxr-xr-x 16 leodine leodine 4096 mai   11 16:51 .config
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Documents
+drwx------  3 leodine leodine 4096 mai   13 08:36 .gnupg
+drwxr-xr-x  2 leodine leodine 4096 mai   10 11:46 Images
+drwxr-xr-x  3 leodine leodine 4096 mai    5 23:00 .local
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Modèles
+drwx------  5 leodine leodine 4096 mai    5 23:03 .mozilla
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Musique
+drwxrwxr-x  2 leodine leodine 4096 mai   11 16:55 php
+-rw-r--r--  1 leodine leodine  807 mai    5 22:28 .profile
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Public
+drwxrwxr-x  2 leodine leodine 4096 mai   13 08:23 scripts
+drwx------  2 leodine leodine 4096 mai   13 08:36 .ssh
+-rw-r--r--  1 leodine leodine    0 mai    5 23:09 .sudo_as_admin_successful
+drwxr-xr-x  3 leodine leodine 4096 mai   10 11:46 Téléchargements
+drwxr-xr-x  2 leodine leodine 4096 mai    5 23:00 Vidéos
+drwxrwxr-x  3 leodine leodine 4096 mai    6 20:37 workspace
+leodine@leodine-MS-7817:~$ 
+
+
